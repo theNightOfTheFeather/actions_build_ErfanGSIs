@@ -1,6 +1,7 @@
 name: build_ErfanGSIs
 
 on:
+  workflow_dispatch:
 #  release:
 #    types: [published]
 #  push:
